@@ -7,6 +7,7 @@ Hello! I'm Hafiez Arief Raharjo. I'm focus and dedicated my self in website deve
 This is a few of technologies i use it:
 
 **Programming**
+
 <div style="display: flex; flex-direction: row;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40" />
@@ -18,6 +19,7 @@ This is a few of technologies i use it:
 </div>
 
 **Tools & Framework**
+
 <div style="display: flex; flex-direction: row;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.Js" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.Js" width="40" height="40" />
@@ -47,15 +49,28 @@ This is a few of technologies i use it:
 </div>
 
 **Databases**
+
 <div style="display: flex; flex-direction: row;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" width="40" height="40" />
 </div>
 
 **Design**
+
 <div style="display: flex; flex-direction: row;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="40" height="40" />
 </div>
 
 **Devops**
+
 <div style="display: flex; flex-direction: row;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rancher/rancher-plain-wordmark.svg" alt="Rancher" width="40" height="40" />
 </div>
 
 ## Portfolio
@@ -63,6 +78,7 @@ This is a few of technologies i use it:
 Feel free to explore my portfolio in my public guthub repositories and you can visit hafiezarief.github.io
 
 ## Connect With Me
+
 
 
 Don't forget to code and happy, Hafiez Arief Raharjo.
