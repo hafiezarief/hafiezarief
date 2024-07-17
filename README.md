@@ -18,6 +18,7 @@ This is a few of technologies i use it:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="GO" width="40" height="40" />
 </div>
 
+
 **Tools & Framework**
 
 <div style="display: flex; flex-direction: row;">
@@ -37,7 +38,7 @@ This is a few of technologies i use it:
 <div style="display: flex; flex-direction: row;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuetify/vuetify-plain.svg" alt="Vuetify" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="40" height="40" />
 </div>
 <div style="display: flex; flex-direction: row;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40" />
@@ -48,6 +49,7 @@ This is a few of technologies i use it:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="Gitlab" width="40" height="40" />
 </div>
 
+
 **Databases**
 
 <div style="display: flex; flex-direction: row;">
@@ -56,12 +58,14 @@ This is a few of technologies i use it:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" width="40" height="40" />
 </div>
 
+
 **Design**
 
 <div style="display: flex; flex-direction: row;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="40" height="40" />
 </div>
+
 
 **Devops**
 
