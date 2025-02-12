@@ -1,6 +1,15 @@
-# I am a Web Engineer
+# I am a Software Engineer
 
-Hello! I'm Hafiez Arief Raharjo. I'm focus and dedicated my self in website development and solution. I have 6 years experience in the dynamic world of web development. I'm enjoy to build backend service as a solution and i feel some happiness while implemented a design to be an app or user interface.
+Software Engineer with over 7+ years of experience in designing, developing, maintaining complex web
+applications. Proficient in JavaScript, TypeScript, Go, PHP, Dart , ExpressJs, NestJs, ReactJs, VueJs, Laravel
+with a solid understanding of modern JavaScript and PHP libraries and frameworks. Focus on web
+development and sometimes explore mobile development too. Expertise in make solution from bisnis
+requirement into RESTful APIs or GRAPHQL APIs with high-performance, scalabity and ensuring code
+quality, crafting responsive, scalable, and high-performance user interface. Adept in integrating RESTful
+APIs or GRAPHQL and ensuring code quality through rigorous testing. Strong collaborative skills, proven
+ability to work effectively in dynamic environments, and a commitment to delivering exceptional user
+experiences. Familiar with the scrum methodology in each software development team. Familiar with
+gitlab CI/CD and kubernetes platform like Rancher and OKD for deployment an app.
 
 ## Skillset
 
